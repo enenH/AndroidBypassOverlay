@@ -1,3 +1,0 @@
-C:/Users/ITEK/CLionProjects/AndroidBypassOverlay/cmake-build-debug/CMakeFiles/AndroidBypassOverlay.dir
-C:/Users/ITEK/CLionProjects/AndroidBypassOverlay/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ITEK/CLionProjects/AndroidBypassOverlay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
