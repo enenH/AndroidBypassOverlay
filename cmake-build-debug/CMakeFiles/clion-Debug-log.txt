@@ -1,0 +1,4 @@
+"D:\Android\CLion 242.12881.46\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Android/SDK/ndk/27.0.11718014/prebuilt/windows-x86_64/bin/make.exe -DCMAKE_C_COMPILER=D:/Android/SDK/ndk/27.0.11718014/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -DCMAKE_CXX_COMPILER=D:/Android/SDK/ndk/27.0.11718014/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -G "MinGW Makefiles" -S C:\Users\ITEK\CLionProjects\AndroidBypassOverlay -B C:\Users\ITEK\CLionProjects\AndroidBypassOverlay\cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/ITEK/CLionProjects/AndroidBypassOverlay/cmake-build-debug
